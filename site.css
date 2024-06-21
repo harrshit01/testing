@@ -461,7 +461,6 @@
   width: 50%;
   padding-left: 35px;
   padding-right: 25px;
-
   margin: auto 0;
  }
  .more-service-info .more-info-body h3{
@@ -665,11 +664,14 @@
   display: flex;
   flex-direction: column-reverse;
   min-height: 85%;
+  box-shadow: none;
 }
  .more-service-info .more-info-body{
   width: 100%;
   padding: 0 10px;
   margin: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+
  }
  .more-service-info .more-info-body h3{
   letter-spacing: 1px;
