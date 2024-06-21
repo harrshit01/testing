@@ -664,16 +664,12 @@
   display: flex;
   flex-direction: column-reverse;
   min-height: 90%;
-  box-shadow: none;
   margin-top: 70px;
-
 }
  .more-service-info .more-info-body{
   width: 100%;
   padding:20px;
   margin: auto;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-
  }
  .more-service-info .more-info-body h3{
   letter-spacing: 1px;
