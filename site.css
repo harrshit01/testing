@@ -49,6 +49,7 @@
     width: 70px; 
     height: 70px;
     margin-bottom: -50px;
+    z-index: 1004;
   }
   
   .menu {
@@ -649,7 +650,7 @@
 }
  .footer .footer-links .menu li a{
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   font-size: 12px;
   margin-right: 0px;
   padding: 0px 10px 0px 0px;
