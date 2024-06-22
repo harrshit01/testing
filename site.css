@@ -145,9 +145,7 @@
   main {
     width: 100%;
     height: 100vh;
-    /* background: rgb(243,241,236);
-    background: linear-gradient(35deg, rgba(243,241,236,1) 49%, rgba(254,112,0,1) 100%); 
-    */
+    padding-top: 70px;
   }
  
   .flex-section {
@@ -564,6 +562,7 @@
   main {
     width: 100%;
     height: 70vh; 
+    padding-top: 30px;
   }
  
   .flex-section {
@@ -586,6 +585,7 @@
   .left-content h2{
     font-size: 30px;
     margin-bottom: 20px;
+    line-height: 40px;
   }
  
   .right-content {
@@ -596,6 +596,7 @@
     /* height:100vh; */
     width:100%;
     margin-bottom: 20px;
+    padding-top: 60px;
  }
  .title-heading-container{
     width: 100%;
@@ -640,7 +641,13 @@
     margin:20px 0px;
     line-height: 17px;
   }
- 
+  .about-container{
+  padding-top: 60px;
+
+  }
+ .contact-container{
+  padding-top: 60px;
+ }
 
  .contact-info .cont{
   margin-bottom: 20px;
