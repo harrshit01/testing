@@ -720,4 +720,10 @@
   .left-content .sendmail {
     margin-top:30px ;
   }
+  .more-service-info{
+    display: flex;
+    flex-direction: column-reverse;
+    min-height: 90%;
+    margin-top: 70px;
+  }
 }
